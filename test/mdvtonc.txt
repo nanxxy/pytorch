@@ -1,0 +1,7 @@
+
+mdv2netCDF -debug
+           -params params_file
+           -start start_time
+           -end   end_time
+
+
